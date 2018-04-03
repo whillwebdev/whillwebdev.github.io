@@ -15,22 +15,20 @@ comments: true
 
 ![AmandaHomepage](/assets/img/purelyamanda.png)    
 
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<!-- <b>Moon</b> is a minimal, one column jekyll theme. -->
 
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.    
-
-## Installation
-*     
-
+ <center><b>PurelyAmanda</b> is a static, multi-page website I built for a client who is a yoga instructor, singer
+ and entrepreneur. Inside you'll find separate pages for each of her ventures and a photo album displaying
+ her in all her glory!</center>
 
 ## Preview
 
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+<!-- {% capture images %} -->
+	![AmandaYoga](/assets/img/yoga-purelyamanda.png)
+	![AmandaJars](/assets/img/jars-purelyamanda.png)
+	![AmandaPhotos](/assets/img/photos-purelyamanda.png)
+<!-- {% endcapture %} -->
+{% include gallery images=images caption="Screenshots of PurelyAmanda" cols=3 %}
 
 ---
 
