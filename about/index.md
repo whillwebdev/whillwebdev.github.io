@@ -6,7 +6,9 @@ date: 2016-03-21
 comments: false
 ---
 
-<center>A little about my journey.</center>
+## <center>A little about my journey.</center>
+
+![Malaga Overlook](/assets/img/malaga-overlook.jpg)
 
 ## Where I Started
 I am an audiologist by trade. After attending graduate school in Philadelphia, I moved to south Florida
