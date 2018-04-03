@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Whitney Hill
+bio:                'Professional Web Developer'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
