@@ -21,18 +21,30 @@ comments: true
  and entrepreneur. Inside you'll find separate pages for each of her ventures and a photo album displaying
  her in all her glory!</center>
 
+## Features
+
+  * Styling using CSS Grid layout
+  * Responsive nav using no JavaScript
+
+  ---
+
 ## Preview
 
-<!-- {% capture images %} -->
-	![AmandaYoga](/assets/img/yoga-purelyamanda.png)
-	![AmandaJars](/assets/img/jars-purelyamanda.png)
-	![AmandaPhotos](/assets/img/photos-purelyamanda.png)
-<!-- {% endcapture %} -->
+{% capture images %}
+	/assets/img/yoga-purelyamanda.png
+	/assets/img/jars-purelyamanda.png
+	/assets/img/photos-purelyamanda.png
+{% endcapture %}
 {% include gallery images=images caption="Screenshots of PurelyAmanda" cols=3 %}
 
 ---
 
-{% capture images %}
+## Check out this project at:
+
+### [Purely Amanda](www.purelyamanda.org)
+---
+
+<!-- {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
 	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
 {% endcapture %}
@@ -148,4 +160,4 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 
 ## License
 
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. -->
