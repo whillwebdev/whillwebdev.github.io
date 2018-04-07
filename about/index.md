@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-## <center>A little about my journey.</center>
+## <center>A little about my journey</center>
 
 ![Malaga Overlook](/assets/img/malaga-overlook.jpg)
 
