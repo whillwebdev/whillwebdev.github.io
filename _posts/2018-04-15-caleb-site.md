@@ -23,6 +23,11 @@ will feature an image slider at the top, which I wrote using JavaScript.</center
 
 ## Preview
 
+
+## Check out this project at:
+
+https://github.com/whillwebdev/caleb-site
+
 <!-- {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
