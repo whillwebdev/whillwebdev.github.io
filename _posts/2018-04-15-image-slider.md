@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Image slider in JavaScript'
-date: 2018-04-016
+date: 2018-04-16
 excerpt: "Image slider for a travel blog"
 tags: [sample post, code, highlighting]
 comments: true
