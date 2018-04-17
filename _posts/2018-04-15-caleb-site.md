@@ -19,7 +19,8 @@ comments: true
 
 <center>This is a travel blog that I am currently working on for my brother. It's a responsive site, built
 mobile first. It will have a post page from which you can view the different places he's visiting. The posts
-will feature an image slider at the top, which I wrote using JavaScript.</center>
+will feature an image slider at the top, which I wrote using JavaScript. All designed and hand-coded by yours truly!
+</center>
 
 ## Preview
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Minimalist footer example'
 date: 2018-04-07
-excerpt: "I love the minimalist look and Raleway is awesome at giving me just that!."
+excerpt: "I love the minimalist look and Raleway is awesome at giving me just that!"
 tags: [sample post, code, highlighting]
 comments: true
 ---

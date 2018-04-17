@@ -19,7 +19,7 @@ comments: true
 
  <center><b>PurelyAmanda</b> is a static, multi-page website I built for a client who is a yoga instructor, singer
  and entrepreneur. Inside you'll find separate pages for each of her ventures and a photo album displaying
- her in all her glory!</center>
+ her in all her glory! All designed and hand-coded by yours truly!</center>
 
 ## Features
 
@@ -41,7 +41,7 @@ comments: true
 
 ## Check out this project at:
 
-### [Purely Amanda](www.purelyamanda.org)
+### www.purelyamanda.org
 ---
 
 <!-- {% capture images %}
